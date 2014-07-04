@@ -11,9 +11,9 @@ import java.util.StringTokenizer;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio17 {
+public class Ej17 {
     public String letraanumeros(String numero){
         String[] Letras = {"UNO", "DOS", "TRES", "CUATRO", "CINCO", "SEIS", "SIETE", "OCHO", "NUEVE",
         "DIEZ", "ONCE", "DOCE", "TRECE", "CATORCE", "QUINCE", "DIECISEIS", "DIECISIETE", "DIECIOCHO", "DIECINUEVE",

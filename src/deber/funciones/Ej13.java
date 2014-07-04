@@ -10,9 +10,9 @@ import java.awt.List;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio13 {
+public class Ej13 {
     public int[] Ordenar(int[] valores){
     int respaldo[] = new int[valores.length];
     int cont = 0;

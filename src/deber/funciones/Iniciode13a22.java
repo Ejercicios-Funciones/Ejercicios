@@ -8,9 +8,9 @@ package deber.funciones;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Funciones {
+public class Iniciode13a22 {
 
     /**
      * @param args the command line arguments
@@ -26,7 +26,7 @@ public class Funciones {
         matriz[2][0] = "g";
         matriz[2][1] = "h";
         matriz[2][2] = "i";
-        Ejercicio21 prueba = new Ejercicio21();
+        Ej21 prueba = new Ej21();
         System.out.println(prueba.Matriz1(matriz));
     }
 }

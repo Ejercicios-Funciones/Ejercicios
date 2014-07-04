@@ -8,9 +8,9 @@ package deber.funciones;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio21 {
+public class Ej21 {
     public String Matriz1(String [][]n){
         String res = null;
         int[][] M = new int[3][3];

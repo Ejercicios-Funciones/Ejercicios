@@ -8,9 +8,9 @@ package deber.funciones;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio16 {
+public class Ej16 {
     public int serie(int x, int y , int z){
         int cont = 0;
         int a = 0;

@@ -10,7 +10,7 @@ package deber.funciones;
  *
  * @author Usuario
  */
-public class Ejercicio14 {
+public class Ej14 {
     public int serie(int x, int y, int z){
         int vector[] = new int[z+1];
         int Z = -1;

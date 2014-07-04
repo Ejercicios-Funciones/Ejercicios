@@ -8,9 +8,9 @@ package deber.funciones;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio18 {
+public class Ej18 {
     public String[] Ordenar(String[] valores){
         for(int i=0;i<valores.length;i++) {
             for(int j=0;j<valores.length-i;j++) {

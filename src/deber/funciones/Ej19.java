@@ -8,9 +8,9 @@ package deber.funciones;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio19 {
+public class Ej19 {
     public int Binario(int num){
         int coc = 0, res=0,binario = 0;
         while (num >= 2){

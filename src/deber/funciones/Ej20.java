@@ -8,9 +8,9 @@ package deber.funciones;
 
 /**
  *
- * @author Usuario
+ * @author Wellington Reyes
  */
-public class Ejercicio20 {
+public class Ej20 {
     public int particion(int num){
         int total = num;
         int count = 0;
